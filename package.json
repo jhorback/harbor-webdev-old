@@ -1,0 +1,18 @@
+{
+  "name": "harbor",
+  "version": "0.1.0",
+  "description": "Harbor web application",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhorback/harbor.git"
+  },
+  "author": "John Horback",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jhorback/harbor/issues"
+  },
+  "homepage": "https://github.com/jhorback/harbor#readme"
+}
