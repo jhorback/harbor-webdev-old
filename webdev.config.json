@@ -1,0 +1,6 @@
+{
+  "demos": ["*"],
+  "tests": ["*"],  
+  "appConfig": {
+  }
+}

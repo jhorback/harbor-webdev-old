@@ -1,14 +1,14 @@
 import { customElement, LitElement, html } from "lit-element";
 
-@customElement("hbr-layout")
-class HarborLayout extends LitElement {
+@customElement("harbor-doc")
+class HarborDoc extends LitElement {
   render() {
     return html`
       <style>
         
       </style>
       
-      Harbor
+      Harbor Doc
 
     `;
   }

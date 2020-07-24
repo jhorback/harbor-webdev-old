@@ -1,0 +1,11 @@
+
+html {
+  --mdc-theme-surface:  #1C213E;
+  --mdc-theme-on-surface: #FFF;
+}
+
+html, body {
+  margin: 0;
+  background-color: var(--mdc-theme-surface);
+  color: var(--mdc-theme-on-surface);
+}
