@@ -2,7 +2,9 @@
   "name": "harbor",
   "version": "0.1.0",
   "description": "Harbor web application",
-  "scripts": {},
+  "scripts": {
+    "debug-serve": "webdev serve"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jhorback/harbor.git"
@@ -14,6 +16,7 @@
   },
   "homepage": "https://github.com/jhorback/harbor#readme",
   "dependencies": {
+    "@ai/webdev": "^0.4.2",
     "@material/theme": "^6.0.0",
     "lit-element": "^2.3.1"
   },
